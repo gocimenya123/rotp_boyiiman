@@ -1,0 +1,102 @@
+{
+  "boy_ii_man_summon": {
+    "sounds": [
+      {
+        "name": "block.beacon.activate",
+        "type": "event"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.summon"
+  },
+  "boy_ii_man_unsummon": {
+    "sounds": [
+      {
+        "name": "block.beacon.deactivate",
+        "type": "event"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.unsummon"
+  },
+  "boy_ii_man_punch": {
+    "sounds": [
+      {
+        "name": "entity.player.attack.strong",
+        "type": "event"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.punch"
+  },
+  "boy_ii_man_steal": {
+    "sounds": [
+      {
+        "name": "entity.enderman.teleport",
+        "type": "event"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.steal"
+  },
+  "owner_summon": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_summon"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_summon"
+  },
+  "owner_challenge": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_challenge"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_challenge"
+  },
+  "owner_forced": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_forced"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_forced"
+  },
+  "owner_round_win": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_round_win"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_round_win"
+  },
+  "owner_round_lose": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_round_lose"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_round_lose"
+  },
+  "owner_steal": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_steal"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_steal"
+  },
+  "owner_match_win": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_match_win"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_match_win"
+  },
+  "owner_match_lose": {
+    "sounds": [
+      {
+        "name": "rotp_boyiiman:user/owner_match_lose"
+      }
+    ],
+    "subtitle": "rotp_boyiiman.subtitle.owner_match_lose"
+  }
+}

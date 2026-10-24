@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="rotp_boyiiman"
+version="${file.jarVersion}"
+displayName="RotP Addon: Boy II Man"
+authors="Gocimenya, inkegg"
+credits="Concept, design, model and textures by inkegg; Gocimenya"
+description='''
+Addon for Ripples of the Past: adds the Stand "Boy II Man" (JoJo Part 4).
+Authors: Gocimenya, inkegg.
+'''
+
+[[dependencies.rotp_boyiiman]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.rotp_boyiiman]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.rotp_boyiiman]]
+    modId="jojo"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
